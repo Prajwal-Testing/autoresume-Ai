@@ -1,0 +1,16 @@
+JOHN DOE
+john.doe@email.com | +1-555-0123
+
+PROFESSIONAL SUMMARY
+Software engineer with experience building scalable applications.
+
+EXPERIENCE
+Software Engineer | Example Corp | 2021-Present
+- Built REST APIs serving 1M+ requests daily
+- Reduced deployment time by 40%
+
+SKILLS
+Python, SQL, Docker, AWS
+
+EDUCATION
+B.S. Computer Science | Example University | 2020
