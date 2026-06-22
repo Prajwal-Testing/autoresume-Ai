@@ -8,6 +8,7 @@ USE_CREWAI = os.getenv("USE_CREWAI", "False").lower() in ("true", "1", "yes")
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-1.5-flash")
+GEMINI_MODEL = "gemini-2.0-flash"
 
 APP_TITLE = "AutoThink AI Career Strategist"
 APP_ICON = "🚀"
